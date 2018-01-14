@@ -1,0 +1,31 @@
+***************************
+  Pytris Shapes Reference
+***************************
+
+All information was gleaned from http://en.wikipedia.org/wiki/Tetromino
+
+Every tetramino in Pytris has a specific shape, which defines how it fits into
+the playing space as well as how flexible it can be during gameplay.  The seven
+shapes used in Pytris are defined below:
+
+"I" shape:  ++++
+
+"J" shape:  +++
+              +
+
+"L" shape:  +++
+            +
+
+"O" shape:  ++
+            ++
+
+"S" shape:   ++
+            ++
+
+"T" shape:  +++
+             +
+
+"Z" shape:  ++
+             ++
+
+All of these shapes, of course, may be rotated at the player's whim.

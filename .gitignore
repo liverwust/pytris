@@ -1,0 +1,25 @@
+# Python virtual environment files
+/bin
+/include
+/lib
+/lib64
+/pip-selfcheck.json
+/pyvenv.cfg
+/share
+
+# Local sqlite database(s)
+/*.db
+
+# Django project configuration environment (contains secrets!)
+/*/.env
+
+# Byte-compiled / optimized / DLL files
+__pycache__/
+*.py[cod]
+*$py.class
+
+# coverage.py output files
+/.coverage
+
+# Vim swap files
+[._]*.sw[a-p]
